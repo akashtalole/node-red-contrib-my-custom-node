@@ -4,7 +4,12 @@
   "description": "node-red-contrib-my-custom-node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "debug": "node /usr/lib/node_modules/node-red/red.js"
+  },
+  "node-red" : {
+    "nodes": {
+        "my-custom-node": "index.js"
+    }
   },
   "repository": {
     "type": "git",
