@@ -6,6 +6,11 @@
   "scripts": {
     "debug": "node /usr/lib/node_modules/node-red/red.js"
   },
+  "node-red" : {
+    "nodes": {
+        "my-custom-node": "index.js"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akashtalole/node-red-contrib-my-custom-node.git"
