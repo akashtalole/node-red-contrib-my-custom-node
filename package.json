@@ -1,0 +1,22 @@
+{
+  "name": "node-red-contrib-my-custom-node",
+  "version": "1.0.0",
+  "description": "node-red-contrib-my-custom-node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashtalole/node-red-contrib-my-custom-node.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "Akash Talole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashtalole/node-red-contrib-my-custom-node/issues"
+  },
+  "homepage": "https://github.com/akashtalole/node-red-contrib-my-custom-node#readme"
+}
